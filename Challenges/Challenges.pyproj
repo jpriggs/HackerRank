@@ -4,13 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>370b2227-1650-43a4-9cf7-2a750105c817</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Algorithms\Warmup\grading.py</StartupFile>
+    <StartupFile>Algorithms\Implementation\grading.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Challenges</Name>
     <RootNamespace>Challenges</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -26,7 +27,7 @@
     <Folder Include="Algorithms\Warmup\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algorithms\Warmup\grading.py">
+    <Compile Include="Algorithms\Implementation\grading.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
