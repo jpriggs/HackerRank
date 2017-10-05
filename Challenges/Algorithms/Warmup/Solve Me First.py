@@ -1,3 +1,9 @@
+############################################################
+# Return the sum of two integers read from stdin
+#
+# Coded by: Jason Rigdon
+############################################################
+
 def solveMeFirst(a,b):
    # Hint: Type return a+b below 
    return a + b

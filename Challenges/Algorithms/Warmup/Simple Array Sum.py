@@ -1,3 +1,9 @@
+#####################################################################
+# Given an array of N integers, can you find the sum of its elements?
+#
+# Coded by: Jason Rigdon
+#####################################################################
+
 #!/bin/python3
 
 import sys

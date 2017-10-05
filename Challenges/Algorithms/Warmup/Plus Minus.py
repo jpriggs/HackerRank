@@ -1,3 +1,14 @@
+########################################################################################################## 
+# Given an array of integers, calculate which fraction of its elements are positive, which fraction of its 
+# elements are negative, and which fraction of its elements are zeroes, respectively. Print the decimal 
+# value of each fraction on a new line.
+#
+# The first line contains an integer, N, denoting the size of the array. 
+# The second line contains N space-separated integers describing an array of numbers (a0, a1, a2,...,an).
+#
+# Coded by: Jason Rigdon
+##########################################################################################################
+
 #!/bin/python3
 
 import sys
